@@ -100,10 +100,8 @@ You can find sample images in image folder and result images in output folder.
 
 ### Results
 
-<img src="output/1.jpg" width = "300" height = "280"/>
-<img src="output/2.jpg" width = "300" height = "280"/>
-<img src="output/3.jpg" width = "300" height = "280"/>
-<img src="output/4.jpg" width = "300" height = "280"/>
+<img src="output/1.jpg" width = "300" height = "280"/> <img src="output/2.jpg" width = "300" height = "280"/>
+<img src="output/3.jpg" width = "300" height = "280"/> <img src="output/4.jpg" width = "300" height = "280"/>
 
 ## Want to Contribute?
 

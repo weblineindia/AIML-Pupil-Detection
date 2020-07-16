@@ -10,5 +10,5 @@ All notable changes to this project will be documented in this file.
 - Added pixel reader to find the dark portion. 
 
 ### Changed
-- Opencv's canny method changed houghcircle
+- Opencv's canny method changed to houghcircle
 

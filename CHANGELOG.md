@@ -7,7 +7,8 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2020-07-14
 
 ### Added
-- Update CHANGELOG.md
+- Added pixel reader to find the dark portion. 
 
 ### Changed
-- Changed Readme.md
+- Opencv's canny method changed houghcircle
+

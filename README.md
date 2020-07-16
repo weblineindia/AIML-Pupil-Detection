@@ -1,6 +1,11 @@
-# AI ML - Pupil Detection
+# Pupil Detection using Dlib face landmark detector
 
-The Pupil Detection AI ML program is used to get the co-ordinates of eyes and detect the pupil region. It only works with human face images.
+The code is used to get the co-ordinates of eyes and detect the pupil region accurately.
+
+It works with human face images. Dlib's facial landmark detector is used for extracting the coordinates from the eye region.
+The eye corner points are collected and it check for dark colored region between the detected eye corner points of each eye.
+It uses OpenCV's houghcircles for detecting circle in a gray scaled image. Thus the pupil is calculated as the midpoint of the circle.
+
 
 ## Table of contents
 
